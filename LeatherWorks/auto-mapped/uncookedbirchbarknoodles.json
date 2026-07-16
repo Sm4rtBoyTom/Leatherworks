@@ -1,0 +1,83 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UnCookedBirchBarkNoodles",
+    "DescriptionLocalizatonId": "GAMEPLAY_UnCookedBirchBarkNoodlesDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.6,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Auto",
+    "PickUpAudio": "Play_SNDInvCookedSoupPickUp",
+    "PutBackAudio": "Play_SNDInvCookedSoupPutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, -0.05, 0 ],
+    "InspectScale": [ 0.5, 0.5, 0.5 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": true,
+    "CookingMinutes": 25,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "GEAR_CookedBirchBarkNoodles",
+    "BurntMinutes": 30,
+    "Type": "Liquid",
+    "CookingAudio": "PLAY_COOKSOUP",
+    "StartCookingAudio": "PLAY_COOKINGPLACEMENTSOUP",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 50,
+    "Servings": 1,
+    "EatingTime": 5,
+    "EatingAudio": "PLAY_EATINGSOUP",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": 15,
+
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 0,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": true,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": false,
+    "ConditionRestBonus": 0,
+    "ConditionRestMinutes": 0,
+
+    "AffectRest": false,
+    "InstantRestChange": 0,
+    "RestFactorMinutes": 0,
+
+    "AffectCold": false,
+    "InstantColdChange": 10,
+    "ColdFactorMinutes": 120,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_SoupSingle",
+    "MultipleUnitTextId": "GAMEPLAY_SoupMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}

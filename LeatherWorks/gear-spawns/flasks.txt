@@ -1,0 +1,11 @@
+scene=RuralRegion
+item=GEAR_InsulatedFlask_T_C p=506.4363,154.8536,1693.2466 r=358.5959,103.8266,286.3235 c=100
+
+scene=BlackrockTransitionZone
+item=GEAR_InsulatedFlask_Paint p=415.2049,184.4502,-169.3213 r=69.5411,188.5902,246.9666 c=100
+
+scene=TracksRegion
+item=GEAR_InsulatedFlask_T_A p=771.5384,93.9758,346.2162 r=349.9226,166.2121,324.2347 c=100
+
+scene=AshCanyonRegion
+item=GEAR_InsulatedFlask_T_B p=112.5649,182.3734,30.1583 r=3.7290,62.3887,12.2977 c=100

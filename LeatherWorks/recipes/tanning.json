@@ -1,0 +1,29 @@
+{
+  "RecipeName": "Tanning",
+  "RecipeDescription": "GAMEPLAY_TanningCDescription",
+  "RecipeIcon": "ico_GearItem__Tanning",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [ "GEAR_RecycledCan" , "GEAR_CookingPot" , "Gear_Skillet"],
+  "BlueprintData": {
+    "Name": "REC_Tanning",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_Treebark",
+        "Count": 2
+      }
+    ],
+    "RequiredPowder": [
+
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.50
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedTanning",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 5,
+    "CraftingAudio": "PLAY_CRAFTINGREISHI"
+  }
+}

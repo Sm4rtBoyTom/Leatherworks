@@ -1,0 +1,34 @@
+{
+  "Name": "blueprint_improvedlongjohns",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_LongUnderwear",
+      "Count": 1
+    },
+    {
+      "Item": "GEAR_StringBundle",
+      "Count": 1
+    },
+    {
+      "Item": "GEAR_LeatherDried",
+      "Count": 4
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 2
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "GunpowderRequired": 0,
+  "RequiredTool": "GEAR_SewingKit",
+  "OptionalTools": [ "GEAR_HookAndLine" ],
+  "RequiredCraftingLocation": "Workbench",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_ImprovedLongJohns",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 90,
+  "CraftingAudio": "PLAY_CRAFTINGCLOTH",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

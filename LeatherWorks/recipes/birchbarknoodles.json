@@ -1,0 +1,32 @@
+{
+  "RecipeName": "Birch Bark Noodles",
+  "RecipeDescription": "GAMEPLAY_BirchBarkNoodlesCDescription",
+  "RecipeIcon": "ico_GearItem__CookedBirchBarkNoodles",
+  "RequiredSkillLevel": 2,
+  "AllowedCookingPots": [ "GEAR_RecycledCan" , "GEAR_CookingPot"],
+  "BlueprintData": {
+    "Name": "REC_BirchBarkNoodles",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_BirchBarkPrepared",
+        "Count": 4
+      }
+    ],
+    "RequiredPowder": [
+      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.05
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.35
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedBirchBarkNoodles",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CRAFTINGREISHI"
+  }
+}

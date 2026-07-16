@@ -1,0 +1,36 @@
+{
+  "RecipeName": "Bark Bannock",
+  "RecipeDescription": "GAMEPLAY_BarkBannockCDescription",
+  "RecipeIcon": "ico_GearItem__CookedBarkBannock",
+  "RequiredSkillLevel": 2,
+  "AllowedCookingPots": [ "GEAR_Skillet" ],
+  "BlueprintData": {
+    "Name": "REC_BarkBannock",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_BarkPrepared",
+        "Count": 4
+      }
+    ],
+    "RequiredPowder": [
+      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.2
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.2
+      },
+      {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedBarkBannock",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_MetalBoxTanning",
+    "DescriptionLocalizatonId": "GAMEPLAY_MetalBoxTanningDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 3,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "PLAY_SNDINVJERRYCAN",
+    "PutBackAudio": "PLAY_SNDINVJERRYCAN",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, -0.05, 0 ],
+    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModEvolveBehaviour": {
+    "TargetItemName": "GEAR_MetalBoxTanned",
+    "EvolveHours": 168,
+    "IndoorsOnly": false
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "PLAY_HARVESTINGMETAL",
+    "Minutes": 5,
+    "YieldCounts": [ 1, 5 ],
+    "YieldNames": [ "GEAR_MetalBoxForge", "GEAR_LeatherScraped" ],
+    "RequiredToolNames": []
+  }
+
+}

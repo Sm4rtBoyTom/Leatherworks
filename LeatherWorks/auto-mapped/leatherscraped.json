@@ -1,0 +1,31 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_LeatherScraped",
+    "DescriptionLocalizatonId": "GAMEPLAY_LeatherScrapedDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.10,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "PLAY_SNDINVCLOTHLEATHER",
+    "PutBackAudio": "PLAY_SNDINVCLOTHLEATHER",
+    "StowAudio": "PLAY_INVCLOTHLEATHERSTOW",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 0.8, 0.8, 0.8 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_ScrapedSingle",
+    "MultipleUnitTextId": "GAMEPLAY_ScrapedMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}

@@ -1,0 +1,45 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_TreeBark",
+    "DescriptionLocalizatonId": "GAMEPLAY_TreebarkDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.1,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Auto",
+    "PickUpAudio": "Play_SndInvWoodLight",
+    "PutBackAudio": "Play_SndInvWoodLight",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_BarkSingle",
+    "MultipleUnitTextId": "GAMEPLAY_BarkMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  },
+  "ModBurnableBehaviour": {
+    "BurningMinutes": 10,
+    "BurningMinutesBeforeAllowedToAdd": 0,
+    "SuccessModifier": 15,
+    "TempIncrease": 2,
+    "DurationOffset": 0
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "PLAY_BREAKDOWNWOODBRANCHES",
+    "Minutes": 5,
+    "YieldCounts": [ 2 ],
+    "YieldNames": [ "GEAR_BarkPrepared" ],
+    "RequiredToolNames": []
+  }
+
+}

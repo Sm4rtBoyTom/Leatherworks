@@ -1,0 +1,29 @@
+{
+  "RecipeName": "Bark Noodles",
+  "RecipeDescription": "GAMEPLAY_BarkNoodlesCDescription",
+  "RecipeIcon": "ico_GearItem__CookedBarkNoodles",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [ "GEAR_RecycledCan" , "GEAR_CookingPot"],
+  "BlueprintData": {
+    "Name": "REC_BarkNoodles",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_BarkPrepared",
+        "Count": 4
+      }
+    ],
+    "RequiredPowder": [
+      
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.35
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedBarkNoodles",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CRAFTINGREISHI"
+  }
+}
