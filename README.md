@@ -56,5 +56,5 @@ If you wish to support me, you can do so here!
 > [!IMPORTANT]
 > **As of version 1.3.1 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
 > **LLMs were specifically used for debugging assistance and partial code restructuring.**
-> **Mod design, balancing, assets and remaining code and implementation were completely made by human dev.**
+> **The base of the mod was kept as a sign of respect to the previous author, all the other changes were made for easier readability of the code and to improve the overall foundation of the mod which can be build upon/updated in the future.**
 
