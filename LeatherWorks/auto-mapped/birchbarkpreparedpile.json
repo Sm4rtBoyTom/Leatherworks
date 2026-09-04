@@ -1,0 +1,41 @@
+{
+  "ModCookableComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_BirchBarkPreparedPile",
+    "DescriptionLocalizatonId": "GAMEPLAY_BirchBarkPreparedPileDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.25,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Auto",
+    "PickUpAudio": "Play_SndInvPlantAcorns",
+    "PutBackAudio": "Play_SndInvPlantAcorns",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": true,
+    "CookingMinutes": 8,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0.0,
+    "CookingResult": "GEAR_BirchBarkPreparedFried",
+    "BurntMinutes": 10,
+    "Type": "Meat",
+    "CookingAudio": "Play_FryingLight",
+    "StartCookingAudio": "Play_SndInvPlantAcorns"
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_BarkSingle",
+    "MultipleUnitTextId": "GAMEPLAY_BarkMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}

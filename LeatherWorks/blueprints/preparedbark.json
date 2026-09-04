@@ -1,0 +1,22 @@
+{
+  "Name": "blueprint_preparedbark",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_Treebark",
+      "Count": 1
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "GunpowderRequired": 0,
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_BarkPrepared",
+  "CraftedResultCount": 2,
+  "DurationMinutes": 5,
+  "CraftingAudio": "PLAY_BREAKDOWNWOODBRANCHES",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

@@ -1,0 +1,83 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UncookedTanning",
+    "DescriptionLocalizatonId": "GAMEPLAY_UncookedTanningDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.75,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvGenericTiny",
+    "PutBackAudio": "Play_SndInvGenericTiny",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": true,
+    "CookingMinutes": 85,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "GEAR_CookedTanning",
+    "BurntMinutes": 20,
+    "Type": "Liquid",
+    "CookingAudio": "PLAY_COOKBROTH",
+    "StartCookingAudio": "PLAY_COOKINGPLACEMENTBROTH",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 50,
+    "Servings": 1,
+    "EatingTime": 5,
+    "EatingAudio": "PLAY_EATINGCHIPS",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -10,
+
+    "FoodPoisoning": 100,
+    "FoodPoisoningLowCondition": 100,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": true,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": false,
+    "ConditionRestBonus": 0,
+    "ConditionRestMinutes": 0,
+
+    "AffectRest": false,
+    "InstantRestChange": 0,
+    "RestFactorMinutes": 0,
+
+    "AffectCold": false,
+    "InstantColdChange": 0,
+    "ColdFactorMinutes": 60,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_BottleSingle",
+    "MultipleUnitTextId": "GAMEPLAY_BottleMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}

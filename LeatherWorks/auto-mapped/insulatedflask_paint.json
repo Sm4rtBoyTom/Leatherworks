@@ -1,0 +1,23 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_InsulatedFlask_Paint",
+    "DescriptionLocalizatonId": "GAMEPLAY_InsulatedFlask_PaintDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 1.4,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Tool",
+    "PickUpAudio": "PLAY_SNDINVINSULATEDFLASKPICKUP",
+    "PutBackAudio": "PLAY_SNDINVINSULATEDFLASKPUTDOWN",
+    "StowAudio": "PLAY_SNDINVINSULATEDFLASKPICKUP",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, -0.1, 0 ],
+    "InspectScale": [ 0.8, 0.8, 0.8 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  }
+}

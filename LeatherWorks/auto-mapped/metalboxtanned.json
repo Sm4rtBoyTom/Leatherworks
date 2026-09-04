@@ -1,0 +1,31 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_MetalBoxTanned",
+    "DescriptionLocalizatonId": "GAMEPLAY_MetalBoxTannedDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 3,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvMetalContainer",
+    "PutBackAudio": "Play_SndInvMetalContainer",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, -0.05, 0 ],
+    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "",
+    "Minutes": 5,
+    "YieldCounts": [ 1, 5 ],
+    "YieldNames": [ "GEAR_MetalBoxForge", "GEAR_Leather" ],
+    "RequiredToolNames": []
+  }
+
+}

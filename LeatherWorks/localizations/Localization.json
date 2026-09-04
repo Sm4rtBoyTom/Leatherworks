@@ -1,0 +1,620 @@
+{
+	"GAMEPLAY_MetalBoxTanning": {
+		"English": "Metal Box with Leather Preparing",
+		"Turkish": "Deri Yapım Seti İçeren Metal Kutu",
+		"Russian": "Металический контейнер с обработаннай кожей ",
+		"Italian": "Scatola in Metallo con Preparazione della Pelle"
+	},
+	"GAMEPLAY_MetalBoxTanningDescription": {
+		"English": "A box containing tanning and scraped leather to make leather.",
+		"Turkish": "Deri yapmak için tabaklanmış ve kazınmış deri içeren bir kutu.",
+		"Russian": "Контейнер с обработанной кожей, замоченной в дубильном составе.",
+		"Italian": "Una scatola che contiene concia e pelle raschiata per creare pelle."
+	},
+	"GAMEPLAY_MetalBoxTanFilled": {
+		"English": "Metal Box with Tanning",
+		"Turkish": "Tabaklama İçeren Metal Kutu",
+		"Russian": "Металический контейнер с дубильным составом",
+		"Italian": "Scatola di Mettallo con Concia"
+	},
+	"GAMEPLAY_MetalBoxTanFilledDescription": {
+		"English": "A metal box filled with tanning to prepare leather.",
+		"Turkish": "Deri yapmak için tabaklama ile doldurulmuş metal bir kutu.",
+		"Russian": "Металический контейнер до краев наполненный дубильным составом. Требуеться сюда добавить обработанную кожу.",
+		"Italian": "Una scatola di metallo riempita di concia per preparare la pelle."
+	},
+	"GAMEPLAY_MetalBoxTanned": {
+		"English": "Metal Box with Prepared Leather",
+		"Turkish": "Hazır Deri İçeren Metal Kutu",
+		"Russian": "Металический контейнер со свежей кожей",
+		"Italian": "Scatola di Metallo con Pelle Preparata"
+	},
+	"GAMEPLAY_MetalBoxTannedDescription": {
+		"English": "A metal box containing prepared leather.",
+		"Turkish": "Hazır deri içeren metal bir kutu.",
+		"Russian": "Контейнер в котором осталась только свежая кожа после просушки.",
+		"Italian": "Una scatola di metallo che contiene pelle preparata."
+	},
+	"GAMEPLAY_LeatherScraped": {
+		"English": "Scraped Leather",
+		"Turkish": "Yüzülmüş Deri",
+		"Russian": "Обработанная кожа",
+		"Italian": "Pelle Raschiata"
+	},
+	"GAMEPLAY_LeatherScrapedDescription": {
+		"English": "A piece of raw leather, that has been cleaned and cut from animal hide.",
+		"Turkish": "Temizlenmiş ve hayvan derisinden kesilmiş bir parça ham deri.",
+		"Russian": "Кусок обработанной кожи, который остался после обработки шкуры животного.",
+		"Italian": "Un pezzo di pelle cruda, che è stata pulita e tagliata dalla pelle di un animale."
+	},
+	"GAMEPLAY_TreeBark": {
+		"English": "Tree Bark",
+		"Turkish": "Ağaç Kabuğu",
+		"Russian": "Древесная кора",
+		"Italian": "Corteccia di Albero"
+	},
+	"GAMEPLAY_TreeBarkDescription": {
+		"English": "The bark from a tree. Might be handy for tanning.",
+		"Turkish": "Bir ağacın kabuğu. Bronzlaşmak için kullanışlı olabilir.",
+		"Russian": "Упавшая кора с дерева. Может бысть использована для приготовления дубильного состава.",
+		"Italian": "Corteccia da un albero. Potrebbe essere utile per la conciatura."
+	},
+	"GAMEPLAY_BarkMultiple": {
+		"English": "Pieces",
+		"Turkish": "Parçalar",
+		"Russian": "",
+		"Italian": "Pezzi"
+	},
+	"GAMEPLAY_BarkRope": {
+		"English": "Bark Cordage",
+		"Turkish": "Ağaç Kabuğu Lifinden Halat",
+		"Russian": "Нитка из коры",
+		"Italian": "Cordame di Corteccia"
+	},
+	"GAMEPLAY_BarkRopeDescription": {
+		"English": "A simple rope made out of bark fibers. Surprisingly strong.",
+		"Turkish": "Ağaç kabuğu liflerinden yapılmış basit bir halat. Şaşırtıcı derecede güçlü.",
+		"Russian": "Простая нитка, вырезаная из древесной коры. Довольно прочная. Из нескольких можно собрать пучок ниток.",
+		"Italian": "Una semplice corda fatta dalle fibre della corteccia. Sorprendentemente forte."
+	},
+	"GAMEPLAY_CookedTanning": {
+		"English": "Tanning",
+		"Turkish": "Tabaklama",
+		"Russian": "Дубильный состав",
+		"Italian": "Concia"
+	},
+	"GAMEPLAY_CookedTanningDescription": {
+		"English": "A dark thick liquid, that is used in preparing leather.",
+		"Turkish": "Deri hazırlamada kullanılan koyu kıvamlı bir sıvıdır.",
+		"Russian": "Темная густая жидкость, изпользуюеться для обработки обработанной кожи. Мерзкая на вкус.",
+		"Italian": "Un liquido nero e denso, che è usato nella preparazione di pelli."
+	},
+	"GAMEPLAY_UncookedTanning": {
+		"English": "Wet Treebark",
+		"Turkish": "Islak Ağaç Kabuğu",
+		"Russian": "Сырая древесная кора",
+		"Italian": "Corteccia di Albero Bagnata"
+	},
+	"GAMEPLAY_UncookedTanningDescription": {
+		"English": "Something between bark and tanning. Useless in its current form.",
+		"Turkish": "Kabuk ile tabaklama arasında bir şey. Şu anki haliyle işe yaramaz.",
+		"Russian": "Это что0то меджу корой и дубильный составом, но в данном виде бесполезная.",
+		"Italian": "Qualcosa tra corteccia e concia. Inutile nella sua forma attuale."
+	},
+	"GAMEPLAY_BarkPrepared": {
+		"English": "Prepared Bark",
+		"Turkish": "Hazırlanmış Ağaç Kabuğu",
+		"Russian": "Подготовленная древесная кора",
+		"Italian": "Corteccia Preparata"
+	},
+	"GAMEPLAY_BarkPreparedDescription": {
+		"English": "A chunk of prepared bark. Could be cooked into food or fried and crushed to get some flour.",
+		"Turkish": "Hazırlanmış ağaç kabuğu parçası. Yemek olarak pişirilebilir veya kızartılıp ezilerek un elde edilebilir.",
+		"Russian": "Подготовленная древесная кора. Можно порезать ее для нитки или обжарить для еды или муки. ",
+		"Italian": "Un pezzo di corteccia preparata. Può essere cotta per consumarla oppure fritta e macinata per ottenere un po' di farina."
+	},
+	"GAMEPLAY_BarkPreparedFried": {
+		"English": "Fried Prepared Bark",
+		"Turkish": "Kızarmış Ağaç Kabuğu",
+		"Russian": "Обжаренная древесная кора",
+		"Italian": "Corteccia Preparata Fritta"
+	},
+	"GAMEPLAY_BarkPreparedFriedDescription": {
+		"English": "A bit dry and tough. Tastes like potato chips. Could be crushed into flour.",
+		"Turkish": "Biraz kuru ve sert. Tadı patates cipsi gibi. Ezilerek un haline getirilebilir.",
+		"Russian": "Немного суховат и жесковат, но на вкус как картофельные чипсы. Из достаточного количества можно перемолоть в муку.",
+		"Italian": "Un po' secchi e duri. Hanno un gusto come le patatine. Possono essere macinate per creare farina."
+	},
+	"GAMEPLAY_BarkPreparedPile": {
+		"English": "Pile of Prepared Bark",
+		"Turkish": "Hazırlanmış Ağaç Kabuğu Yığını",
+		"Russian": "Куча подготовленной древесной коры",
+		"Italian": "Pila di Corteccia Preparata"
+	},
+	"GAMEPLAY_BarkPreparedPileDescription": {
+		"English": "A pile of prepared bark, perfect amount to fry in a batch.",
+		"Turkish": "Bir yığın hazırlanmış ağaç kabuğu, bir partide kızartmak için mükemmel miktar.",
+		"Russian": "Кучка подготовленной коры. Идеальное количество для порции.",
+		"Italian": "Una pila di corteccia preparata, quantità perfetta per friggere in gruppo."
+	},
+	"GAMEPLAY_BarkPreparedFriedPile": {
+		"English": "Pile of Fried Prepared Bark",
+		"Turkish": "Kızarmış Hazır Ağaç Kabuğu Yığını",
+		"Russian": "Обжаренная куча древесной коры",
+		"Italian": "Pila di Corteccia Preparata Fritta"
+	},
+	"GAMEPLAY_BarkPreparedFriedPileDescription": {
+		"English": "A bit dry and tough. Tastes like potato chips. Could be crushed into flour.",
+		"Turkish": "Biraz kuru ve sert. Tadı patates cipsi gibi. Ezilerek un haline getirilebilir.",
+		"Russian": "Немного суховат и жесковат, но на вкус как картофельные чипсы. Из достаточного количества можно перемолоть в муку.",
+		"Italian": "Un po' secchhi e duri. Hanno un gusto come le patatine. Possono essere macinate per creare farina."
+	},
+	"GAMEPLAY_BirchBarkPreparedFryable": {
+		"English": "Prepared Birch Bark (Fryable)",
+		"Turkish": "Hazırlanmış Huş Kabuğu (Kızartılabilir)",
+		"Russian": "Подготовленная березовая кора (обжариваемая)",
+		"Italian": "Corteccia di Betulla Preparata (Friggibile)"
+	},
+	"GAMEPLAY_BirchBarkPreparedFryableDescription": {
+		"English": "A chunk of prepared birch bark. Could be cooked into food or fried.",
+		"Turkish": "Hazırlanmış bir parça huş ağacı kabuğu. Yemek olarak pişirilebilir veya kızartılabilir.",
+		"Russian": "Подготовленная березовая кора. Может быть обжарена для еды.",
+		"Italian": "Un pezzo di corteccia di betulla preparata. Può essere cotta per consumarla oppure fritta."
+	},
+	"GAMEPLAY_BirchBarkPreparedFried": {
+		"English": "Fried Prepared Birch Bark",
+		"Turkish": "Kızarmış Hazır Huş Kabuğu",
+		"Russian": "Обжаренная березовая кора",
+		"Italian": "Corteccia di Betulla Fritta"
+	},
+	"GAMEPLAY_BirchBarkPreparedFriedDescription": {
+		"English": "A bit dry and tough. Tastes like potato chips.",
+		"Turkish": "Biraz kuru ve sert. Tadı patates cipsi gibi.",
+		"Russian": "Немного суховат и жесковат, но на вкус как картофельные чипсы.",
+		"Italian": "Un po' secchi e duri. Hanno un gusto come le patatine."
+	},
+	"GAMEPLAY_BirchBarkPreparedPile": {
+		"English": "Pile of Prepared Birch Bark",
+		"Turkish": "Hazırlanmış Huş Kabuğu Yığını",
+		"Russian": "Куча подготовленной березовой коры",
+		"Italian": "Pila di Corteccia di Betulla Preparata"
+	},
+	"GAMEPLAY_BirchBarkPreparedPileDescription": {
+		"English": "A pile of prepared birch bark, perfect amount to fry in a batch.",
+		"Turkish": "Bir yığın hazırlanmış huş ağacı kabuğu, bir partide kızartmak için mükemmel miktar.",
+		"Russian": "Кучка подготовленной березовой коры. Идеальное количество для порции.",
+		"Italian": "Una pila di corteccia di betulla preparata, quantità perfetta per friggere in gruppo."
+	},
+	"GAMEPLAY_BirchBarkPreparedFriedPile": {
+		"English": "Pile of Fried Prepared Birch Bark",
+		"Turkish": "Kızarmış Huş Kabuğu Yığını",
+		"Russian": "Обжаренная куча березовой коры",
+		"Italian": "Pila di Corteccia di Betulla Preparata Fritta"
+	},
+	"GAMEPLAY_BirchBarkPreparedFriedPileDescription": {
+		"English": "A bit dry and tough. Tastes like potato chips.",
+		"Turkish": "Biraz kuru ve sert. Tadı patates cipsi gibi.",
+		"Russian": "Немного суховат и жесковат, но на вкус как картофельные чипсы.",
+		"Italian": "Un po' secchi e duri. Hanno un gusto come le patatine."
+	},
+	"GAMEPLAY_UnCookedBarkNoodles": {
+		"English": "Uncooked Bark Noodles",
+		"Turkish": "Pişmemiş Ağaç Kabuğu Eriştesi",
+		"Russian": "Недоготовленная лапша из коры",
+		"Italian": "Tagliatelle di Corteccia Crudi"
+	},
+	"GAMEPLAY_UnCookedBarkNoodlesDescription": {
+		"English": "Prepared bark and water. Doesn't look that enticing.",
+		"Turkish": "Hazır ağaç kabuğu ve su. Pek cazip görünmüyor.",
+		"Russian": "Смесь воды и коры. Выглядит не очень аппетитно.",
+		"Italian": "Corteccia preparata e acqua. Non sembra così attraente."
+	},
+	"GAMEPLAY_CookedBarkNoodles": {
+		"English": "Bark Noodles",
+		"Turkish": "Ağaç Kabuğu Eriştesi",
+		"Russian": "Лапша из коры",
+		"Italian": "Tagliatelle di Corteccia"
+	},
+	"GAMEPLAY_CookedBarkNoodlesDescription": {
+		"English": "A can of cooked prepared bark, some would even call them noodles. Don't ask where the can came from, just enjoy your meal.",
+		"Turkish": "Bir kutu pişmiş hazır ağaç kabuğu, hatta bazıları bunlara erişte bile diyebilir. Kutunun nereden geldiğini sormayın, sadece yemeğinizin tadını çıkarın.",
+		"Russian": "Банка вареной коры, это даже можно назвать лапшой. Не надо спрашивать откуда взялась тут банка, просто ешь и радуйся.",
+		"Italian": "Una lattina di corteccia preparata cotta, qualcuno li chiamerebbe tagliatelle. Non chiedere da dove derivano, goditi il pasto e basta."
+	},
+	"GAMEPLAY_UnCookedBarkBannock": {
+		"English": "Uncooked Bark Bannock",
+		"Turkish": "Pişmemiş Ağaç Kabuğu Çöreği",
+		"Russian": "Недоделанная лепешка из березовой коры",
+		"Italian": "Focaccia di Corteccia Cruda"
+	},
+	"GAMEPLAY_UnCookedBarkBannockDescription": {
+		"English": "A bannock of all time, in the making. With extra bark.",
+		"Turkish": "Tüm zamanların çöreği, yapım aşamasında. Ekstra kabuklu.",
+		"Russian": "Выпечка из коры. Надо приготовить и узнать каково это на вкус.",
+		"Italian": "Una focaccia di tutti i tempi, in divenire. Con un extra di corteccia."
+	},
+	"GAMEPLAY_CookedBarkBannock": {
+		"English": "Bark Bannock",
+		"Turkish": "Ağaç Kabuğu Çöreği",
+		"Russian": "Лепешка из коры",
+		"Italian": "Focaccia di Corteccia"
+	},
+	"GAMEPLAY_CookedBarkBannockDescription": {
+		"English": "Flat bark bread. I heard this stuff is popular in Finland, maybe they get their happiness from it.",
+		"Turkish": "Yassı ağaç kabuklu ekmek. Bu şeyin Finlandiya'da popüler olduğunu duydum, belki de mutluluklarını bundan alıyorlar.",
+		"Russian": "Приготовленная лепешка из коры. Говорят популярна в Финляндии. На удивление придает сил.",
+		"Italian": "Focaccia di corteccia. Ho sentito che questa roba è popolare in Finlandia, forse da questo prendono la loro felicità."
+	},
+	"GAMEPLAY_UnCookedBirchBarkNoodles": {
+		"English": "Uncooked Birch Bark Noodles",
+		"Turkish": "Pişmemiş Huş Kabuğu Eriştesi",
+		"Russian": "Недоделанная лапша из березовой коры",
+		"Italian": "Tagliatelle di Corteccia di Betulla Crudi"
+	},
+	"GAMEPLAY_UnCookedBirchBarkNoodlesDescription": {
+		"English": "Prepared bark and water. Doesn't look that enticing.",
+		"Turkish": "Hazır ağaç kabuğu ve su. Pek cazip görünmüyor.",
+		"Russian": "Смесь воды и коры. Выглядит не очень аппетитно.",
+		"Italian": "Corteccia preparata e acqua. Non sembra così attraente."
+	},
+	"GAMEPLAY_CookedBirchBarkNoodles": {
+		"English": "Birch Bark Noodles",
+		"Turkish": "Huş Kabuklu Erişte",
+		"Russian": "Лапша из березовой коры",
+		"Italian": "Tagliatelle di Corteccia di Betulla"
+	},
+	"GAMEPLAY_CookedBirchBarkNoodlesDescription": {
+		"English": "A can of cooked prepared bark, some would even call them noodles. Don't ask where the can came from, just enjoy your meal.",
+		"Turkish": "Bir kutu pişmiş hazır ağaç kabuğu, hatta bazıları bunlara erişte bile diyebilir. Kutunun nereden geldiğini sormayın, sadece yemeğinizin tadını çıkarın.",
+		"Russian": "Банка вареной коры, это даже можно назвать лапшой. Не надо спрашивать откуда взялась тут банка, просто ешь и радуйся.",
+		"Italian": "Una lattina di corteccia preparata cotta, qualcuno li chiamerebbe tagliatelle. Non chiedere da dove derivano, goditi il pasto e basta."
+	},
+	"GAMEPLAY_UnCookedBirchBarkBannock": {
+		"English": "Uncooked Birch Bark Bannock",
+		"Turkish": "Pişmemiş Huş Kabuğu Çöreği",
+		"Russian": "Недоделанная лепешка из березовой коры",
+		"Italian": "Focaccia di Corteccia di Betulla Cruda"
+	},
+	"GAMEPLAY_UnCookedBirchBarkBannockDescription": {
+		"English": "A bannock of all time, in the making. With extra bark.",
+		"Turkish": "Tüm zamanların çöreği, yapım aşamasında. Ekstra kabuklu.",
+		"Russian": "Выпечка из коры. Надо приготовить и узнать каково это на вкус.",
+		"Italian": "Una focaccia di tutti i tempi, in divenire. Con un extra di corteccia."
+	},
+	"GAMEPLAY_CookedBirchBarkBannock": {
+		"English": "Birch Bark Bannock",
+		"Turkish": "Huş Kabuğu Çöreği",
+		"Russian": "Лепешка из березовой коры",
+		"Italian": "Focaccia di Corteccia di Betulla"
+	},
+	"GAMEPLAY_CookedBirchBarkBannockDescription": {
+		"English": "Flat bark bread. I heard this stuff is popular in Finland, maybe they get their happiness from it.",
+		"Turkish": "Yassı ağaç kabuklu ekmek. Bu şeyin Finlandiya'da popüler olduğunu duydum, belki de mutluluklarını bundan alıyorlar.",
+		"Russian": "Приготовленная лепешка из березовой коры. Говорят популярна в Финляндии. Хороша чтобы забить желудок.",
+		"Italian": "Focaccia di corteccia. Ho sentito che questa roba è popolare in Finlandia, forse da questo prendono la loro felicità."
+	},
+	"GAMEPLAY_ImprovedJacketLeather": {
+		"English": "Improved Flight Jacket",
+		"Turkish": "Deri Yamalı Uçuş Ceketi",
+		"Russian": "Прошитая куртка летчика",
+		"Italian": "Giacca da Aviatore Migliorata"
+	},
+	"GAMEPLAY_ImprovedJacketLeatherDescription": {
+		"English": "An already thick leather jacket modified with extra patches of leather. Should give you an extra second or two to escape a struggle.",
+		"Turkish": "Zaten kalın olan deri ceket ekstra deri parçalarla değiştirilmiş. Boğuşmadan kaçmak için fazladan bir iki saniye kazandırır.",
+		"Russian": "И так плотная куртка летчика была прошита дополнительными слоями кожи и ткани. Теперь все ее характеристики улучшены.",
+		"Italian": "Una giacca di pelle già spessa modificata con toppe di pelli extra. Dovrebbe darti qualche secondo in più per fuggire dalle lotte."
+	},
+	"GAMEPLAY_ImprovedDownInsulation": {
+		"English": "Improved Down Insulation",
+		"Turkish": "Deri Yamalı İzolasyon Battaniyesi",
+		"Russian": "Прошитая утепленная подкладка",
+		"Italian": "Strato Isolante Migliorato"
+	},
+	"GAMEPLAY_ImprovedDownInsulationDescription": {
+		"English": "A base layer improved with patches of leather. Warms the core to the point of sweating.",
+		"Turkish": "Deri yamaları ile geliştirilmiş bir taban katmanı. Çekirdeği terleme noktasına kadar ısıtır.",
+		"Russian": "Нижний слой был прошит кусками кожи и ткани. Теперь тепло сохраняеться дольше.",
+		"Italian": "Uno strato di base migliorato con toppe di pelli. Scalda il core fino a far sudare."
+	},
+	"GAMEPLAY_ImprovedLongJohns": {
+		"English": "Improved Underwear",
+		"Turkish": "Deri Yamalı İçlik",
+		"Russian": "Прошитое термобелье",
+		"Italian": "Intimo Termico Migliorato"
+	},
+	"GAMEPLAY_ImprovedLongJohnsDescription": {
+		"English": "Thermal underwear with loads of leather patches. Might get a bit sweaty.",
+		"Turkish": "Bir sürü deri yamalı termal iç çamaşırı. Biraz terletebilir.",
+		"Russian": "Термобелье с прошитым слоем из кожи. Сохраняет тепло лучше.",
+		"Italian": "Intimo termico con tante toppe di pelli. Potrebbe causare un po' di sudore."
+	},
+	"GAMEPLAY_ImprovisedFlask": {
+		"English": "Improvised Flask",
+		"Turkish": "El Yapımı Matara",
+		"Russian": "Самодельный термос",
+		"Italian": "Borraccia Improvvisata"
+	},
+	"GAMEPLAY_ImprovisedFlaskDescription": {
+		"English": "A can wrapped in some cloth with a small lid. Will keep your drinks warmer longer than your regular cup.",
+		"Turkish": "Küçük bir kapakla beze sarılmış bir kutu. İçeceklerinizi normal bardağınızdan daha uzun süre sıcak tutacaktır.",
+		"Russian": "Банка завернутая в ткань с небольшой крышкой. В ней напитки остануться горячими чуть дольше, чем просто в кружке.",
+		"Italian": "Una lattina avvolta in qualche pezzo di stoffa e un piccolo coperchio. Terrà le tue bevande calde più a lungo rispetto alle tue tazze regolari."
+	},
+	"GAMEPLAY_InsulatedFlask_Paint": {
+		"English": "Paint Insulated Flask",
+		"Turkish": "Boya İzoleli Matara",
+		"Russian": "Термос с болью",
+		"Italian": "Borraccia Termica Colorata"
+	},
+	"GAMEPLAY_InsulatedFlask_PaintDescription": {
+		"English": "A portable container for keeping beverages warm. Seems to keep your drink warm for a strangely long time.",
+		"Turkish": "İçecekleri sıcak tutmak için taşınabilir bir kap. İçeceğinizi garip bir şekilde uzun süre sıcak tutuyor gibi görünüyor.",
+		"Russian": "Переносной контейнер для хранения теплых напитков.",
+		"Italian": "Un contenitore portatile per mantenere calde le bevande. Sembra di mantenere le tue bevande calde per un tempo stranamente lungo."
+	},
+	"GAMEPLAY_InsulatedFlask_T_A": {
+		"English": "Insulated Flask",
+		"Turkish": "Yalıtımlı Matara",
+		"Russian": "Термос",
+		"Italian": "Borraccia Termica"
+	},
+	"GAMEPLAY_InsulatedFlask_T_ADescription": {
+		"English": "A portable container for keeping beverages warm.",
+		"Turkish": "İçecekleri sıcak tutmak için taşınabilir bir kap.",
+		"Russian": "Переносной контейнер для хранения теплых напитков.",
+		"Italian": "Un contenitore portatile per mantenere calde le bevande."
+	},
+	"GAMEPLAY_InsulatedFlask_T_B": {
+		"English": "Insulated Flask",
+		"Turkish": "Yalıtımlı Matara",
+		"Russian": "Термос",
+		"Italian": "Borraccia Termica"
+	},
+	"GAMEPLAY_InsulatedFlask_T_BDescription": {
+		"English": "A portable container for keeping beverages warm.",
+		"Turkish": "İçecekleri sıcak tutmak için taşınabilir bir kap.",
+		"Russian": "Переносной контейнер для хранения теплых напитков.",
+		"Italian": "Un contenitore portatile per mantenere calde le bevande."
+	},
+	"GAMEPLAY_InsulatedFlask_T_C": {
+		"English": "Insulated Flask",
+		"Turkish": "Yalıtımlı Matara",
+		"Russian": "Термос",
+		"Italian": "Borraccia Termica"
+	},
+	"GAMEPLAY_InsulatedFlask_T_CDescription": {
+		"English": "A portable container for keeping beverages warm. Seems to have belonged to a tourist.",
+		"Turkish": "İçecekleri sıcak tutmak için taşınabilir bir kap. Bir turiste ait gibi görünüyor.",
+		"Russian": "Переносной контейнер для хранения теплых напитков.",
+		"Italian": "Un contenitore portatile per mantenere calde le bevande. Sembra che apparteneva a un turista."
+	},
+	"GAMEPLAY_PryTool": {
+		"English": "Pry Tool",
+		"Turkish": "Maymuncuk",
+		"Russian": "Монтировочный инструмент",
+		"Italian": "Attrezzo di Leva"
+	},
+	"GAMEPLAY_PryToolDescription": {
+		"English": "Usually used for breaking into cars, but maybe you could open some doors instead.",
+		"Turkish": "Genellikle arabalara girmek için kullanılır, ama belki bunun yerine bazı kapıları açabilirsiniz.",
+		"Russian": "Обычно используеться чтобы вскрыть машину, но в целом ей можно открыть некоторые двери.",
+		"Italian": "Generalmente usato per l'irruzione nelle auto, ma forse potresti invece aprire qualche porta."
+	},
+	"GAMEPLAY_LW_NoScrape": {
+		"English": "You require a knife for this action",
+		"Turkish": "Bu eylem için bir bıçağa ihtiyacınız var",
+		"Russian": "Для этого вам требуется нож",
+		"Italian": "Ti serve un coltello per questa azione"
+	},
+	"GAMEPLAY_LW_ScrapeProgressBar": {
+		"English": "Scraping...",
+		"Turkish": "Yüzülüyor",
+		"Russian": "Обработка...",
+		"Italian": "Raschiando..."
+	},
+	"GAMEPLAY_LW_ScrapeLabel": {
+		"English": "Scrape",
+		"Turkish": "Sıyır",
+		"Russian": "Обработать",
+		"Italian": "Raschia"
+	},
+	"GAMEPLAY_LW_NoLeatherScraped": {
+		"English": "You require 5 scraped leather for this action",
+		"Turkish": "Bu eylem için 5 yüzülmüş deri gerekir",
+		"Russian": "Для этого вам требуеться 5 обработанной кожи",
+		"Italian": "Ti servono 5 pezzi di pelle raschiata per questa azione"
+	},
+	"GAMEPLAY_LW_TanLeatherProgressBar": {
+		"English": "Soaking...",
+		"Turkish": "Sırılsıklam...",
+		"Russian": "Смешивание",
+		"Italian": "Ammollamento..."
+	},
+	"GAMEPLAY_LW_AddLeatherLabel": {
+		"English": "Soak",
+		"Turkish": "Islat",
+		"Russian": "Смешать",
+		"Italian": "Bagna"
+	},
+	"GAMEPLAY_LW_NoTanning": {
+		"English": "You require tanning for this action",
+		"Turkish": "Bu eylem için tabaklamaya ihtiyacınız var",
+		"Russian": "Для этого вам нужен дубильный состав",
+		"Italian": "Ti serve una concia per questa azione"
+	},
+	"GAMEPLAY_LW_AddTanningProgressBar": {
+		"English": "Filling...",
+		"Turkish": "Dolduruyorum.",
+		"Russian": "Заполнение",
+		"Italian": "Riempimento..."
+	},
+	"GAMEPLAY_LW_AddTanningLabel": {
+		"English": "Add Tan",
+		"Turkish": "Tabaklama ekle",
+		"Russian": "Залить состав",
+		"Italian": "Aggiungi Concia"
+	},
+	"GAMEPLAY_LW_NoBarkSmall": {
+		"English": "You require 35 pieces for this action",
+		"Turkish": "Bu eylem için 35 parçaya ihtiyacınız var",
+		"Russian": "Для этого вам надо 35 штук",
+		"Italian": "Ti servono 35 pezzi per questa azione"
+	},
+	"GAMEPLAY_LW_NoBarkSmallPile": {
+		"English": "You require 5 pieces for this action",
+		"Turkish": "Bu eylem için 5 parçaya ihtiyacınız var",
+		"Russian": "Для этого вами надо 5 штук",
+		"Italian": "Ti servono 5 pezzi per questa azione"
+	},
+	"GAMEPLAY_LW_CrushProgressBar": {
+		"English": "Crushing...",
+		"Turkish": "Eziliyor...",
+		"Russian": "Перетирание...",
+		"Italian": "Macinamento..."
+	},
+	"GAMEPLAY_LW_NoBarkLarge": {
+		"English": "You require 7 pieces for this action",
+		"Turkish": "Bu eylem için 7 parçaya ihtiyacınız var",
+		"Russian": "Для этого вам надо 7 штук",
+		"Italian": "Ti servono 7 pezzi per questa azione"
+	},
+	"GAMEPLAY_LW_CrushBarkLabel": {
+		"English": "Crush",
+		"Turkish": "Ez",
+		"Russian": "Перетереть",
+		"Italian": "Macina"
+	},
+	"GAMEPLAY_LW_PileBarkLabel": {
+		"English": "Pile",
+		"Turkish": "Yığın",
+		"Russian": "Объединить",
+		"Italian": "Pila"
+	},
+	"GAMEPLAY_LW_PileProgressBar": {
+		"English": "Piling...",
+		"Turkish": "Yığınlanıyor...",
+		"Russian": "Объединение...",
+		"Italian": "Accumulamento..."
+	},
+	"GAMEPLAY_LW_UnPileProgressBar": {
+		"English": "Unpiling...",
+		"Turkish": "Ayrılıyor...",
+		"Russian": "Разъединение...",
+		"Italian": "Disimpilamento..."
+	},
+	"GAMEPLAY_LW_NoBark": {
+		"English": "You require a hammer/stone",
+		"Turkish": "Bir çekiç veya taşa ihtiyacınız var",
+		"Russian": "Для этого вам нужен молот/камень",
+		"Italian": "Ti serve un martello/roccia"
+	},
+	"GAMEPLAY_LW_PlaceBoxLabel": {
+		"English": "Place",
+		"Turkish": "Yerleştir",
+		"Russian": "Разместить",
+		"Italian": "Piazza"
+	},
+	"GAMEPLAY_LW_FryBirchLabel": {
+		"English": "To Cook",
+		"Turkish": "Pişirmek İçin",
+		"Russian": "Обжариваемым",
+		"Italian": "Cucinare"
+	},
+	"GAMEPLAY_LW_ReturnBirchLabel": {
+		"English": "To Craft",
+		"Turkish": "Üretmek için",
+		"Italian": "Creare"
+	},
+	"GAMEPLAY_LW_UnPileBarkLabel": {
+		"English": "Unpile",
+		"Turkish": "Ayır",
+		"Russian": "Разъединить",
+		"Italian": "Disimpila"
+	},
+	"GAMEPLAY_LW_NoRope": {
+		"English": "You require 3 pieces for this action",
+		"Turkish": "Bu eylem için 3 parçaya ihtiyacınız var",
+		"Russian": "Для этого вам надо 3 штуки",
+		"Italian": "Ti servono 3 pezzi per questa azione"
+	},
+	"GAMEPLAY_LW_MakeRopeLabel": {
+		"English": "Make Rope",
+		"Turkish": "Halat Yapın",
+		"Russian": "Нитку",
+		"Italian": "Crea Corda"
+	},
+	"GAMEPLAY_LW_MakeRopeProgressBar": {
+		"English": "Stripping...",
+		"Turkish": "Sıyırılıyor",
+		"Russian": "Нарезание...",
+		"Italian": "Spogliamento..."
+	},
+	"GAMEPLAY_LW_NoString": {
+		"English": "You require 3 pieces for this action",
+		"Turkish": "Bu eylem için 3 parçaya ihtiyacınız var",
+		"Russian": "Для этого надо 3 штуки",
+		"Italian": "Ti servono 3 pezzi per questa azione"
+	},
+	"GAMEPLAY_LW_MakeStringLabel": {
+		"English": "Make String",
+		"Turkish": "Dize Yap",
+		"Russian": "Пучок ниток",
+		"Italian": "Crea Stringa"
+	},
+	"GAMEPLAY_LW_MakeStringProgressBar": {
+		"English": "Bundling...",
+		"Turkish": "Paketleniyor...",
+		"Russian": "Связывание...",
+		"Italian": "Raggruppamento..."
+	},
+	"GAMEPLAY_LW_NeedTanningAmount": {
+		"English": "Tanning is required for this action."
+	},
+	"GAMEPLAY_LW_NeedPieces": {
+		"English": "Bark pieces required for this action."
+	},
+  "GAMEPLAY_BannockSingle": {
+    "English": "Bannock",
+    "German": "",
+    "Russian": "Лепешка",
+    "French (France)": "Bannique",
+    "Japanese": "個",
+    "Korean": "",
+    "Simplified Chinese": "",
+    "Swedish": "",
+    "Traditional Chinese": "班諾克麵包",
+    "Turkish": "",
+    "Norwegian": "",
+    "Spanish (Spain)": "",
+    "Portuguese (Portugal)": "",
+    "Portuguese (Brazil)": "",
+    "Dutch": "",
+    "Finnish": "",
+    "Italian": "",
+    "Polish": "Łopian",
+    "Ukrainian": ""
+  },
+  "GAMEPLAY_BannockMultiple": {
+    "English": "Bannocks",
+    "German": "",
+    "Russian": "Лепешек",
+    "French (France)": "Banniques",
+    "Japanese": "個",
+    "Korean": "",
+    "Simplified Chinese": "",
+    "Swedish": "",
+    "Traditional Chinese": "班諾克麵包",
+    "Turkish": "",
+    "Norwegian": "",
+    "Spanish (Spain)": "",
+    "Portuguese (Portugal)": "",
+    "Portuguese (Brazil)": "",
+    "Dutch": "",
+    "Finnish": "",
+    "Italian": "",
+    "Polish": "Łopian",
+    "Ukrainian": ""
+  }
+}
+

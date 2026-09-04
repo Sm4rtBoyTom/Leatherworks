@@ -1,0 +1,83 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_BirchBarkPreparedFriedPile",
+    "DescriptionLocalizatonId": "GAMEPLAY_BirchBarkPreparedFriedPileDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.25,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Auto",
+    "PickUpAudio": "Play_SndInvPlantAcorns",
+    "PutBackAudio": "Play_SndInvPlantAcorns",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": false,
+    "CookingMinutes": 12,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "GEAR_BirchBarkPreparedFriedPile",
+    "BurntMinutes": 10,
+    "Type": "Meat",
+    "CookingAudio": "PLAY_COOKBANNOCK",
+    "StartCookingAudio": "PLAY_COOKINGPLACEMENTBANNOCK",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 100,
+    "Servings": 1,
+    "EatingTime": 1,
+    "EatingAudio": "PLAY_EATINGCRUNCHY",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -2,
+
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 0,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": false,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": false,
+    "ConditionRestBonus": 5,
+    "ConditionRestMinutes": 180,
+
+    "AffectRest": false,
+    "InstantRestChange": 0,
+    "RestFactorMinutes": 0,
+
+    "AffectCold": true,
+    "InstantColdChange": 10,
+    "ColdFactorMinutes": 120,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_BarkSingle",
+    "MultipleUnitTextId": "GAMEPLAY_BarkMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}
