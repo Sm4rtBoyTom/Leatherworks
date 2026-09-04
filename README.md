@@ -1,24 +1,53 @@
-# Leatherworks
-Leatherworks is a mod, that gives players a way to renew leather to craft and mend items in the game and/or added by other mods.
+THUMBNAIL HERE!
+-----
 
-* Find treebark to create tanning or turn it into prepared treebark
-* Turn prepared treebark into different foods or create flour from grinding a large amount of fried prepared bark with a hammer or stone
-* Scrape animal hides to get scraped leather
-* Soak scraped leather in tanning to get raw leather down the line
+**Leatherworks is a mod for [The Long Dark](https://www.thelongdark.com). 
+A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
-### DLC is REQUIRED for this mod to work
+-----
 
-https://github.com/TonisGaming/Leatherworks/assets/18740935/74147ed5-ccf4-4e8c-9757-c59c7f5d2272
+## **Features**
 
-https://github.com/TonisGaming/Leatherworks/assets/18740935/66da02ba-7129-4f36-a242-9c557844d3ba
+ **Leatherworks is a modification that makes leather a renewable resource.**
+  
+  - **New leather-making mechanic:** Semi-complex process that allow the player to make cured leather from animal hides/pelts.
+  - **Improvised Insulated Flask:** An Improvised version of insulated flask. Keeps drinks warm for a little longer.  
+  - **Insulated Flasks:** More variants of existing vanilla flasks.
+  - **New Recipes:** New Bark Related recipes. Bark bannocks, noodles (There's also a birch bark variant of these foods).
+  - **Prytool:** Early-game craftable prybar, but with very little durability.
 
-## Installation
+> [!TIP]
+> **For detailed explanation and description of the mods features please visit the mod's [Wiki]()**
 
-* Download the latest version from releases and place the .dll and .modcomponent into the mods folder
+> [!NOTE]
+> As of release 1.3.1 Leatherworks is natively compatible with [Camping Tools](https://github.com/Jods-Its/Jods-Camping-Tools) by [Jods-Its](https://github.com/Jods-Its). No need to install any additional dependencies for compatibility!
 
-* Requires [Modder's Tool Box](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases) and [ModComponent](https://github.com/dommrogers/ModComponent) with its dependencies
+## **Required Dependencies**
 
-## Special Thanks
+#### For this mod to work, ensure you have the following mods below:
 
-- TonisGaming (original mod author)
-- TLD Modding Community
+- **[Modcomponent](https://github.com/dommrogers/ModComponent) - and it's dependencies. (Required)**
+- **[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/) (Required)**
+- **[Modder's Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox) - and it's dependencies. (Required)**
+
+  ## **Installation**
+  
+  - **Put all of the required dependencies in your mods folder.**
+  - **Download both the `Leatherworks.dll` and `LeatherWorks.modcomponent` put them in your mods folder.**
+    - **Congratulations, you can now successfully launch the game with this mod, enjoy!**
+
+## **Contributions**
+
+### Special thanks to:
+  - **mik5937** - For providing Russian translations.
+
+  - **[TonisGaming](https://github.com/TonisGaming) - The original author of the mod.**
+
+> Note: If you don't see your name in the contributors list and wish to be mentioned, please let me know via DM on Discord.
+  
+   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
+
+> [!IMPORTANT]
+> **As of version 1.3.1 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
+> **LLMs were specifically used for debugging assistance and partial code restructuring.**
+> **Mod design, balancing, assets and remaining code and implementation were completely made by human dev.**
