@@ -45,14 +45,14 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
 > Note: If you don't see your name in the contributors list and wish to be mentioned, please let me know via DM on Discord.
 
-> [!IMPORTANT]
-> **As of version 1.3.1 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
-> **LLMs were specifically used for debugging assistance and partial code restructuring.**
-> **Mod design, balancing, assets and remaining code and implementation were completely made by human dev.**
-
 ## **Support**
 
 If you wish to support me, you can do so here!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
+
+> [!IMPORTANT]
+> **As of version 1.3.1 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
+> **LLMs were specifically used for debugging assistance and partial code restructuring.**
+> **Mod design, balancing, assets and remaining code and implementation were completely made by human dev.**
 
