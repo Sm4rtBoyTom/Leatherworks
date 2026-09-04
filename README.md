@@ -30,7 +30,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 - **[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/) (Required)**
 - **[Modder's Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox) - and it's dependencies. (Required)**
 
-  ## **Installation**
+## **Installation**
   
   - **Put all of the required dependencies in your mods folder.**
   - **Download both the `Leatherworks.dll` and `LeatherWorks.modcomponent` put them in your mods folder.**
