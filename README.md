@@ -51,6 +51,8 @@ If you wish to support me, you can do so here!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
 
+## **LLM Notice**
+
 > [!IMPORTANT]
 > **As of version 1.3.1 this mod has been partially developed with the assistance of LLMs.** _(AI tools)_
 > **LLMs were specifically used for debugging assistance and partial code restructuring.**
