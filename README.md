@@ -11,7 +11,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
  **Leatherworks is a modification that makes leather a renewable resource.**
   
-  - **New leather-making mechanic:** Semi-complex process that allow the player to make cured leather from animal hides/pelts.
+  - **Leather-making mechanic:** Fairly simple process that allows the player to make cured leather from animal hides/pelts.
   - **Improvised Insulated Flask:** An Improvised version of insulated flask. Keeps drinks warm for a little longer.  
   - **Insulated Flasks:** More variants of existing vanilla flasks.
   - **New Recipes:** New Bark Related recipes. Bark bannocks, noodles (There's also a birch bark variant of these foods).
