@@ -1,4 +1,5 @@
-THUMBNAIL HERE!
+<img width="1920" height="1080" alt="Thumb_Leatherworks" src="https://github.com/user-attachments/assets/b7738e03-d8bb-4403-9ff0-bda51d8d8c3f" />
+
 -----
 
 **Leatherworks is a mod for [The Long Dark](https://www.thelongdark.com). 
