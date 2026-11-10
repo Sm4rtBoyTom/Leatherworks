@@ -8,8 +8,8 @@
     "MaxHP": 100.0,
     "InitialCondition": "Perfect",
     "InventoryCategory": "Tool",
-    "PickUpAudio": "",
-    "PutBackAudio": "",
+    "PickUpAudio": "Play_SndInvMetalMedium",
+    "PutBackAudio": "Play_SndInvMetalMedium",
     "StowAudio": "Play_InventoryStow",
     "WornOutAudio": "",
     "InspectOnPickup": true,
@@ -61,5 +61,12 @@
     "TapMultiplier": 0.0,
     "CanPuncture": false,
     "BleedoutMultiplier": 0.0
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "PLAY_HARVESTINGMETAL",
+    "Minutes": 5,
+    "YieldCounts": [ 1 ],
+    "YieldNames": [ "GEAR_Cloth" ],
+    "RequiredToolNames": []
   }
 }

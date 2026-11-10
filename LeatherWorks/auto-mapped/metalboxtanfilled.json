@@ -5,27 +5,42 @@
     "InventoryActionLocalizationId": "",
     "WeightKG": 2.5,
     "DaysToDecay": 0,
-    "MaxHP": 100,
+    "MaxHP": 100.0,
     "InitialCondition": "Perfect",
     "InventoryCategory": "Material",
-    "PickUpAudio": "Play_SndInvMetalContainer",
-    "PutBackAudio": "Play_SndInvMetalContainer",
-    "StowAudio": "Play_InventoryStow",
+    "PickUpAudio": "Play_SndInvJerryCan",
+    "PutBackAudio": "Play_SndInvJerryCan",
+    "StowAudio": "Play_SndInvJerryCan",
     "WornOutAudio": "",
     "InspectOnPickup": true,
-    "InspectDistance": 0.4,
-    "InspectAngles": [ 0, 0, 0 ],
-    "InspectOffset": [ 0, -0.05, 0 ],
-    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "InspectDistance": 0.45,
+    "InspectAngles": [
+      35.0,
+      165.0,
+      -15.0
+    ],
+    "InspectOffset": [
+      0.0,
+      -0.02,
+      0.0
+    ],
+    "InspectScale": [
+      0.3,
+      0.3,
+      0.3
+    ],
     "NormalModel": "",
     "InspectModel": ""
   },
   "ModHarvestableBehaviour": {
-    "Audio": "",
-    "Minutes": 5,
-    "YieldCounts": [ 1 ],
-    "YieldNames": [ "GEAR_MetalBoxForge" ],
+    "Audio": "Play_PutInPotWater",
+    "Minutes": 1,
+    "YieldCounts": [
+      1
+    ],
+    "YieldNames": [
+      "GEAR_MetalBoxForge"
+    ],
     "RequiredToolNames": []
   }
-
 }

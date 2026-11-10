@@ -3,20 +3,32 @@
     "DisplayNameLocalizationId": "GAMEPLAY_TreeBark",
     "DescriptionLocalizatonId": "GAMEPLAY_TreebarkDescription",
     "InventoryActionLocalizationId": "",
-    "WeightKG": 0.1,
+    "WeightKG": 0.05,
     "DaysToDecay": 0,
-    "MaxHP": 100,
+    "MaxHP": 100.0,
     "InitialCondition": "Perfect",
-    "InventoryCategory": "Auto",
-    "PickUpAudio": "Play_SndInvWoodLight",
-    "PutBackAudio": "Play_SndInvWoodLight",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvPlantSmall",
+    "PutBackAudio": "Play_SndInvPlantSmall",
     "StowAudio": "Play_InventoryStow",
     "WornOutAudio": "",
     "InspectOnPickup": true,
     "InspectDistance": 0.4,
-    "InspectAngles": [ 0, 0, 0 ],
-    "InspectOffset": [ 0, 0, 0 ],
-    "InspectScale": [ 0.3, 0.3, 0.3 ],
+    "InspectAngles": [
+      -35.0,
+      -55.0,
+      55.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      0.3,
+      0.3,
+      0.3
+    ],
     "NormalModel": "",
     "InspectModel": ""
   },
@@ -25,21 +37,24 @@
     "MultipleUnitTextId": "GAMEPLAY_BarkMultiple",
     "StackSprite": "",
     "UnitsPerItem": 1,
-    "ChanceFull": 0
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_TreeBark",
+    "StackConditionDifferenceConstraint": 0.0
   },
-  "ModBurnableBehaviour": {
-    "BurningMinutes": 10,
-    "BurningMinutesBeforeAllowedToAdd": 0,
-    "SuccessModifier": 15,
-    "TempIncrease": 2,
-    "DurationOffset": 0
+  "ModTinderBehaviour": {
+    "DurationOffset": 4.0,
+    "SuccessModifier": 5.0
   },
   "ModHarvestableBehaviour": {
-    "Audio": "PLAY_BREAKDOWNWOODBRANCHES",
+    "Audio": "Play_BreakdownWoodBranches",
     "Minutes": 5,
-    "YieldCounts": [ 2 ],
-    "YieldNames": [ "GEAR_BarkPrepared" ],
+    "YieldCounts": [
+      2
+    ],
+    "YieldNames": [
+      "GEAR_BarkPrepared"
+    ],
     "RequiredToolNames": []
   }
-
 }

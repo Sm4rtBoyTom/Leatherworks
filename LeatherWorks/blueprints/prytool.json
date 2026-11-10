@@ -1,0 +1,28 @@
+{
+  "Name": "BLUEPRINT_PryTool",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapMetal",
+      "Count": 1,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_PryTool",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 10,
+  "CraftingAudio": "Play_CraftingCloth",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

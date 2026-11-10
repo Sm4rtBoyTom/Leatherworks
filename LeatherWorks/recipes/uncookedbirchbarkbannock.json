@@ -1,0 +1,39 @@
+{
+  "RecipeName": "GAMEPLAY_CookedBirchBarkBannock",
+  "RecipeDescription": "GAMEPLAY_CookedBirchBarkBannockDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 2,
+  "AllowedCookingPots": [
+    "GEAR_Skillet"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_UncookedBirchBarkBannock",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_BirchbarkPrepared",
+        "Count": 4,
+        "Units": "Count"
+      }
+    ],
+    "RequiredPowder": [
+      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.15
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      },
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedBirchBarkBannock",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_CraftingBannock"
+  }
+}

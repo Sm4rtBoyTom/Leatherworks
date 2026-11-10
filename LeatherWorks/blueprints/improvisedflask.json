@@ -1,30 +1,35 @@
 {
-  "Name": "blueprint_improvisedflask",
+  "Name": "BLUEPRINT_ImprovisedFlask",
   "RequiredGear": [
     {
       "Item": "GEAR_RecycledCan",
-      "Count": 1
+      "Count": 1,
+      "Units": "Count"
     },
     {
       "Item": "GEAR_Cloth",
-      "Count": 5
+      "Count": 5,
+      "Units": "Count"
     },
     {
       "Item": "GEAR_ScrapMetal",
-      "Count": 1
+      "Count": 1,
+      "Units": "Count"
     }
   ],
-  "KeroseneLitersRequired": 0,
-  "GunpowderRequired": 0,
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
   "RequiredTool": "GEAR_SimpleTools",
-  "OptionalTools": [ "GEAR_HighQualityTools" ],
+  "OptionalTools": [
+    "GEAR_HighQualityTools"
+  ],
   "RequiredCraftingLocation": "Workbench",
   "RequiresLitFire": false,
   "RequiresLight": true,
   "CraftedResult": "GEAR_ImprovisedFlask",
   "CraftedResultCount": 1,
   "DurationMinutes": 90,
-  "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+  "CraftingAudio": "Play_CraftingGeneric",
   "AppliedSkill": "None",
   "ImprovedSkill": "None"
 }

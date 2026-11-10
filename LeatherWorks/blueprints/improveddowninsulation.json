@@ -1,34 +1,40 @@
 {
-  "Name": "blueprint_improveddowninsulation",
+  "Name": "BLUEPRINT_ImprovedDownInsulation",
   "RequiredGear": [
     {
       "Item": "GEAR_ImprovisedDownInsulation",
-      "Count": 1
+      "Count": 1,
+      "Units": "Count"
     },
     {
       "Item": "GEAR_StringBundle",
-      "Count": 1
+      "Count": 1,
+      "Units": "Count"
     },
     {
       "Item": "GEAR_LeatherDried",
-      "Count": 5
+      "Count": 5,
+      "Units": "Count"
     },
     {
       "Item": "GEAR_Cloth",
-      "Count": 2
+      "Count": 2,
+      "Units": "Count"
     }
   ],
-  "KeroseneLitersRequired": 0,
-  "GunpowderRequired": 0,
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
   "RequiredTool": "GEAR_SewingKit",
-  "OptionalTools": [ "GEAR_HookAndLine" ],
-  "RequiredCraftingLocation": "Workbench",
+  "OptionalTools": [
+    "GEAR_HookAndLine"
+  ],
+  "RequiredCraftingLocation": "Anywhere",
   "RequiresLitFire": false,
   "RequiresLight": true,
   "CraftedResult": "GEAR_ImprovedDownInsulation",
   "CraftedResultCount": 1,
-  "DurationMinutes": 150,
-  "CraftingAudio": "PLAY_CRAFTINGCLOTH",
-  "AppliedSkill": "None",
-  "ImprovedSkill": "None"
+  "DurationMinutes": 180,
+  "CraftingAudio": "Play_CraftingCloth",
+  "AppliedSkill": "ClothingRepair",
+  "ImprovedSkill": "ClothingRepair"
 }

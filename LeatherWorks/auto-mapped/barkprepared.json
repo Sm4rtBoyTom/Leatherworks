@@ -5,21 +5,32 @@
     "InventoryActionLocalizationId": "",
     "WeightKG": 0.05,
     "DaysToDecay": 0,
-    "MaxHP": 100,
+    "MaxHP": 100.0,
     "InitialCondition": "Perfect",
     "InventoryCategory": "Material",
-    "PickUpAudio": "Play_SndInvPlantAcorns",
-    "PutBackAudio": "Play_SndInvPlantAcorns",
+    "PickUpAudio": "Play_SndInvPlantSmall",
+    "PutBackAudio": "Play_SndInvPlantSmall",
     "StowAudio": "Play_InventoryStow",
     "WornOutAudio": "",
     "InspectOnPickup": true,
-    "InspectDistance": 0.4,
-    "InspectAngles": [ 0, 0, 0 ],
-    "InspectOffset": [ 0, 0, 0 ],
-    "InspectScale": [ 1, 1, 1 ],
+    "InspectDistance": 0.45,
+    "InspectAngles": [
+      -35.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
     "NormalModel": "",
     "InspectModel": "",
-
     "Cooking": true,
     "CookingMinutes": 8,
     "CookingUnitsRequired": 1,
@@ -28,18 +39,20 @@
     "BurntMinutes": 10,
     "Type": "Meat",
     "CookingAudio": "Play_FryingLight",
-    "StartCookingAudio": "Play_SndInvPlantAcorns"
+    "StartCookingAudio": "Play_SndInvPlantSmall"
   },
   "ModStackableBehaviour": {
     "SingleUnitTextId": "GAMEPLAY_BarkSingle",
     "MultipleUnitTextId": "GAMEPLAY_BarkMultiple",
     "StackSprite": "",
     "UnitsPerItem": 1,
-    "ChanceFull": 0
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_BarkPrepared",
+    "StackConditionDifferenceConstraint": 0.0
   },
   "ModTinderBehaviour": {
-    "DurationOffset": 0,
-    "SuccessModifier": 40
+    "DurationOffset": 0.0,
+    "SuccessModifier": 5.0
   }
-
 }

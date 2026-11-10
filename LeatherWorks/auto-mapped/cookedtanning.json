@@ -1,83 +1,45 @@
 {
-  "ModFoodComponent": {
+  "ModGenericComponent": {
     "DisplayNameLocalizationId": "GAMEPLAY_CookedTanning",
     "DescriptionLocalizatonId": "GAMEPLAY_CookedTanningDescription",
     "InventoryActionLocalizationId": "",
-    "WeightKG": 0.75,
+    "WeightKG": 0.5,
     "DaysToDecay": 0,
-    "MaxHP": 100,
+    "MaxHP": 100.0,
     "InitialCondition": "Perfect",
     "InventoryCategory": "Material",
-    "PickUpAudio": "PLAY_SNDINVWATERBOTTLE",
-    "PutBackAudio": "PLAY_SNDINVWATERBOTTLEPUTBACK",
+    "PickUpAudio": "Play_SndInvWaterBottle",
+    "PutBackAudio": "Play_SndInvWaterBottle",
     "StowAudio": "Play_InventoryStow",
     "WornOutAudio": "",
     "InspectOnPickup": true,
-    "InspectDistance": 0.4,
-    "InspectAngles": [ 0, 0, 0 ],
-    "InspectOffset": [ 0, -0.1, 0 ],
-    "InspectScale": [ 0.8, 0.8, 0.8 ],
+    "InspectDistance": 0.45,
+    "InspectAngles": [
+      -15.0,
+      -55.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      -0.07,
+      0.0
+    ],
+    "InspectScale": [
+      0.8,
+      0.8,
+      0.8
+    ],
     "NormalModel": "",
-    "InspectModel": "",
-
-    "Cooking": false,
-    "CookingMinutes": 30,
-    "CookingUnitsRequired": 1,
-    "CookingWaterRequired": 0,
-    "CookingResult": "GEAR_Tanning",
-    "BurntMinutes": 20,
-    "Type": "Liquid",
-    "CookingAudio": "PLAY_COOKPIE",
-    "StartCookingAudio": "PLAY_COOKINGPLACEMENTPIE",
-
-    "DaysToDecayOutdoors": 0,
-    "DaysToDecayIndoors": 0,
-    "Calories": 75,
-    "Servings": 1,
-    "EatingTime": 2,
-    "EatingAudio": "PLAY_DRINKWATER",
-    "EatingPackagedAudio": "",
-    "ThirstEffect": -15,
-
-    "FoodPoisoning": 100,
-    "FoodPoisoningLowCondition": 100,
-    "ParasiteRiskIncrements": [],
-
-    "Natural": false,
-    "Raw": true,
-    "Drink": true,
-    "Meat": false,
-    "Fish": false,
-    "Canned": false,
-
-    "Opening": false,
-    "OpeningWithCanOpener": false,
-    "OpeningWithKnife": false,
-    "OpeningWithHatchet": false,
-    "OpeningWithSmashing": false,
-
-    "AffectCondition": false,
-    "ConditionRestBonus": 0,
-    "ConditionRestMinutes": 0,
-
-    "AffectRest": false,
-    "InstantRestChange": 0,
-    "RestFactorMinutes": 0,
-
-    "AffectCold": false,
-    "InstantColdChange": 0,
-    "ColdFactorMinutes": 60,
-
-    "ContainsAlcohol": false,
-    "AlcoholPercentage": 0,
-    "AlcoholUptakeMinutes": 45
+    "InspectModel": ""
   },
   "ModStackableBehaviour": {
     "SingleUnitTextId": "GAMEPLAY_BottleSingle",
     "MultipleUnitTextId": "GAMEPLAY_BottleMultiple",
     "StackSprite": "",
     "UnitsPerItem": 1,
-    "ChanceFull": 0
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_CookedTanning",
+    "StackConditionDifferenceConstraint": 0.0
   }
-
 }

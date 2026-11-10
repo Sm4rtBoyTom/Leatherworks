@@ -1,0 +1,35 @@
+{
+  "RecipeName": "GAMEPLAY_CookedBarkNoodles",
+  "RecipeDescription": "GAMEPLAY_CookedBarkNoodlesDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [
+    "GEAR_CookingPot"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_UncookedBarkNoodles",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_BarkPrepared",
+        "Count": 4,
+        "Units": "Count"
+      }
+    ],
+    "RequiredPowder": [
+      {
+        "Powder": "POWDER_Salt",
+        "QuantityInKilograms": 0.01
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.35
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedBarkNoodles",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_CraftingReishi"
+  }
+}

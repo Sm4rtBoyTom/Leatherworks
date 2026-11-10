@@ -3,20 +3,32 @@
     "DisplayNameLocalizationId": "GAMEPLAY_ImprovisedFlask",
     "DescriptionLocalizatonId": "GAMEPLAY_ImprovisedFlaskDescription",
     "InventoryActionLocalizationId": "",
-    "WeightKG": 0.60,
+    "WeightKG": 0.5,
     "DaysToDecay": 0,
-    "MaxHP": 100,
+    "MaxHP": 100.0,
     "InitialCondition": "Perfect",
     "InventoryCategory": "Tool",
-    "PickUpAudio": "PLAY_SNDINVCLOTHLEATHER",
-    "PutBackAudio": "PLAY_SNDINVCLOTHLEATHER",
-    "StowAudio": "PLAY_INVCLOTHLEATHERSTOW",
+    "PickUpAudio": "Play_SndInvMetalMedium",
+    "PutBackAudio": "Play_SndInvMetalMedium",
+    "StowAudio": "Play_InventoryStow",
     "WornOutAudio": "",
     "InspectOnPickup": true,
-    "InspectDistance": 0.4,
-    "InspectAngles": [ 0, 0, 0 ],
-    "InspectOffset": [ 0, 0, 0 ],
-    "InspectScale": [ 0.8, 0.8, 0.8 ],
+    "InspectDistance": 0.5,
+    "InspectAngles": [
+      -15.0,
+      0.0,
+      -25.0
+    ],
+    "InspectOffset": [
+      0.0,
+      -0.03,
+      0.0
+    ],
+    "InspectScale": [
+      0.8,
+      0.8,
+      0.8
+    ],
     "NormalModel": "",
     "InspectModel": ""
   }
