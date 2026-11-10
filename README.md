@@ -15,7 +15,7 @@
   - **Prytool:** Early-game craftable prybar, with very little durability.
 
 > [!TIP]
-> **For detailed explanation and description of the mods features please visit the mod's [Wiki]()**
+> **For detailed explanation and description of the mods features please visit the mod's [Wiki]() INCOMPLETE!**
 
 > [!NOTE]
 > As of release 1.3.1 Leatherworks is natively compatible with [Camping Tools](https://github.com/Jods-Its/Jods-Camping-Tools) by [Jods-Its](https://github.com/Jods-Its).
