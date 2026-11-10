@@ -2,10 +2,7 @@
 
 -----
 
-**Leatherworks is a mod for [The Long Dark](https://www.thelongdark.com). 
-A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
-
------
+**Leatherworks is a mod for [The Long Dark](https://www.thelongdark.com). A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
 ## **Features**
 
@@ -14,8 +11,8 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
   - **Leather-making mechanic:** Fairly simple process that allows the player to make cured leather from animal hides/pelts.
   - **Improvised Insulated Flask:** An Improvised version of insulated flask. Keeps drinks warm for a little longer.  
   - **Insulated Flasks:** More variants of existing vanilla flasks.
-  - **New Recipes:** New Bark Related recipes. Bark bannocks, noodles (There's also a birch bark variant of these foods).
-  - **Prytool:** Early-game craftable prybar, but with very little durability.
+  - **New Recipes:** New Bark Related recipes. Bark bannocks, noodles.
+  - **Prytool:** Early-game craftable prybar, with very little durability.
 
 > [!TIP]
 > **For detailed explanation and description of the mods features please visit the mod's [Wiki]()**
